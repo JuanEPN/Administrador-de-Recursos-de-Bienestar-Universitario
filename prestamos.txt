@@ -1,0 +1,17 @@
+NOMBRE | APELLIDO | FECHA | CODIGO | CELULAR | CURSO | JORNADA | RECURSO | CANTIDAD 
+Juan|Pereira|5/12/2022|2266916|3147185664|D. soft|Diurna|3020|2
+Matias|Pereira|5/12/2022|545877|31471854481|D. soft|Diurna|Balon Baloncesto|1
+Alejandro |Vidal|3/12/2022|226693854|31005654455|D. soft|Diurna|Guitarra|1
+Pepito|A|3/12/2022|12|31005654455|Administracion|Diurna|0|1
+Juanes|Pereira|5/12/2022|22266916|3151574874|D. soft|Diurna|20354|5
+Matias|Pereira|5/12/2022|22266916|3151574874|D. soft|Diurna|20354|5
+Alejandro|Vidal|5/12/2022|22266916|3151574874|D. soft|Diurna|20354|5
+Victor|Vargas|5/12/2022|22266916|3151574874|D. soft|Diurna|20354|5
+Juanes|Pereira|3/12/2022|22266966|3147185664|D soft|Diurna|Futbol balon|2
+Matias|Pereira|3/12/2022|22266966|3147185664|D soft|Diurna|Futbol balon|2
+Alejandro|Vidal|3/12/2022|22266966|3147185664|D soft|Diurna|Futbol balon|2
+Victor Manuel|Vargas|3/12/2022|22266966|3147185664|D soft|Diurna|Futbol balon|2
+Juan|Pereira|6/12/2022|6684145|31478||300000|2
+Juan|Pereira|13/12/2022|256465445634|24654557|D soft|Diunra|Balon de furbo|5
+sfsdf|||0|0||||0
+fsdf|||0|0||||0
